@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "43e94b99863eeaa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76b24eda1b8c608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aea140af431e91dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.개념설정/8.신앙과 신격.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.신앙과 신격"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ac7623b546a8d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e85773ead8a6bfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b212bc495e53a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "4c3de59fdb4734f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "88ddebcd61e0df97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d124537cc424b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7221aa05ee9984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4b89c8d3481369",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "efad8820b71f2453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "9a0e5dcdb6ece75e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "95a0bc4a954002e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "95b037f7419696a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "aea140af431e91dd",
+  "lastOpenFiles": [
+    "4.국가및단체설정/20.발라스쿠 연맹_무법 해역과 잿빛 돛.md",
+    "4.국가및단체설정/19.펠가르드 연맹_빙하의 늑대.md",
+    "4.국가및단체설정/18.아크나톤 제국_모래바다의 황금 제국.md",
+    "3.지역설정/0.루테라 7대륙 세계지도.md",
+    "4.국가및단체설정/3.무법의 해역과 잿빛 돛의 연맹 발라스쿠.md",
+    "4.국가및단체설정/2.빙하의 늑대 연맹 펠가르드.md",
+    "4.국가및단체설정/1.모래바다의 황금 제국 아크나톤.md",
+    "3.지역설정/3.가라앉은 군도와 무법의 해역.md",
+    "3.지역설정/2.빙설과 얼어붙은 피오르드.md",
+    "3.지역설정/1.작열하는 황금빛 모래바다.md",
+    "3.지역설정/3.무법의 해역과 해적 연맹 발라스쿠.md",
+    "3.지역설정/2.빙설과 늑대의 해안 펠가르드.md",
+    "3.지역설정/1.모래바다의 황금 제국 아크나톤.md",
+    "PRD/Task-List.md",
+    "PRD/Coding-Rules.md",
+    "1.개념설정/9.루테라의 개척자 모험가.md",
+    "docs/01-plan/2026-03-11-schema_PLAN.md",
+    "1.개념설정/4.앙그라_원초의 악과 안개의 질서.md",
+    "1.개념설정/2.위그드라실_빛의 근원이자 침묵의 성역.md",
+    "1.개념설정/11.미개척지 탐사 매뉴얼.md",
+    "4.국가및단체설정/17.아르카 마법 연합_원초적 진리의 탐구자들.md",
+    "4.국가및단체설정/17.아르카눔 마법 연합_진리와 마나의 탐구자들.md",
+    "4.국가및단체설정/16.심해의 의회_바다와 심연의 지배자들.md",
+    "4.국가및단체설정/15.공포의 의회_심연을 부르는 흑암의 교단.md",
+    "4.국가및단체설정/14.자유 탐사 연맹_일확천금과 투지의 개척자들.md",
+    "4.국가및단체설정/13.셀레스티얼 실바_폭주하는 수해의 수호자.md",
+    "5.사회와직업설정",
+    "PRD",
+    "docs/04-report",
+    "docs/03-analysis",
+    "docs/02-design",
+    "1.개념설정/10.세계의 작동 원리",
+    "docs/01-plan",
+    "docs",
+    "0.미정리노트",
+    "4.국가및단체설정"
+  ]
+}
